@@ -1,5 +1,5 @@
 # E-commerCard
 
-Card Simples em HTML e CSS
+Card simples em HTML e CSS
 
  https://raphael-bezerra.github.io/E-commerCard/
